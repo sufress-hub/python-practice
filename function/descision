@@ -1,0 +1,5 @@
+def square(n):
+    return n*n
+
+answer = square(1111111)
+print('here is ur square:', answer)
