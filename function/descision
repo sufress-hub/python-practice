@@ -3,3 +3,9 @@ def square(n):
 
 answer = square(1111111)
 print('here is ur square:', answer)
+
+output 
+
+here is ur square: 1234567654321
+
+[Program finished]
