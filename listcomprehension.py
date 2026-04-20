@@ -12,3 +12,11 @@ print(multyply)
 # Comprehension se naya list banao
 # jisme har number 2 se multiply ho
 # [2, 4, 6, 8, 10] aana chahiye
+
+
+
+
+students = ["Arvind", "Shristi", "Priya"]
+
+length ={word:len(word) for word in students}
+print(length)
